@@ -8,4 +8,4 @@
 # encoder:
 # red-light = 3'b100
 # green-light = 3'b010
-# yellơ-light  = 3'b001.
+# yellow-light  = 3'b001.
