@@ -1,0 +1,64 @@
+{C:/Du lieu/CE213/traffic/tb.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {C:/Du lieu/CE213/traffic/next.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/next.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module next
+
+Top level modules:
+	next
+
+} {} {}} {C:/Du lieu/CE213/traffic/compare.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/compare.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module compare
+
+Top level modules:
+	compare
+
+} {} {}} {C:/Du lieu/CE213/traffic/traffic.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/traffic.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module traffic
+
+Top level modules:
+	traffic
+
+} {} {}} {C:/Du lieu/CE213/traffic/datapath.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Du lieu/CE213/traffic/curr.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/curr.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module curr
+
+Top level modules:
+	curr
+
+} {} {}} {C:/Du lieu/CE213/traffic/counter.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Du lieu/CE213/traffic/out.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/out.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module out
+
+Top level modules:
+	out
+
+} {} {}} {C:/Du lieu/CE213/traffic/control.v} {1 {vlog -work work {C:/Du lieu/CE213/traffic/control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}}

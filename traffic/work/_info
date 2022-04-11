@@ -1,0 +1,214 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vcompare
+Z1 !s100 [=gz:WKZ`N``@an_EUFL70
+Z2 IoBXCB6:n^VK50oU]0EC7O2
+Z3 V6EAHSaoUV3:Bbl[EYjTd13
+Z4 dC:\Du lieu\CE213\traffic
+Z5 w1635081615
+Z6 8C:/Du lieu/CE213/traffic/compare.v
+Z7 FC:/Du lieu/CE213/traffic/compare.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/compare.v|
+Z10 o-work work -O0
+Z11 !s108 1635091376.970000
+Z12 !s107 C:/Du lieu/CE213/traffic/compare.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z13 Ih5>63?kX@iiA@BOK_QVhY1
+Z14 V?Rznd5PJgNn3^b8><m;3R0
+R4
+Z15 w1635091374
+Z16 8C:/Du lieu/CE213/traffic/control.v
+Z17 FC:/Du lieu/CE213/traffic/control.v
+L0 2
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/control.v|
+R10
+Z19 !s100 _1X5eAKb?M<`o4jUY;f:n2
+Z20 !s108 1635091377.606000
+Z21 !s107 C:/Du lieu/CE213/traffic/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+Z22 !s100 SoV[9SzZo19PV43M8f]>R3
+Z23 I6U<eA0P<4e><;JieIO9]o0
+Z24 VIbg==Gn_5OLDaWgzPcE2S3
+R4
+Z25 w1635080965
+Z26 8C:/Du lieu/CE213/traffic/counter.v
+Z27 FC:/Du lieu/CE213/traffic/counter.v
+L0 2
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/counter.v|
+R10
+Z29 !s108 1635091377.088000
+Z30 !s107 C:/Du lieu/CE213/traffic/counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcurr
+Z31 !s100 _F4_kSDoP7;II[W=GDYEZ2
+Z32 IPN>QhX>;a<ffMzdQeLMZ03
+Z33 VCzi6kMCRhgbLmoL9EOE911
+R4
+Z34 w1635071386
+Z35 8C:/Du lieu/CE213/traffic/curr.v
+Z36 FC:/Du lieu/CE213/traffic/curr.v
+L0 2
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/curr.v|
+R10
+Z38 !s108 1635091377.216000
+Z39 !s107 C:/Du lieu/CE213/traffic/curr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z40 !s100 KQ`6fife2;e7BmAJfJl1P0
+Z41 ILP[?]ebC^caeCSXd0M7V]3
+Z42 VR[B1_^hn@zH:<jcU6TLz[3
+R4
+Z43 w1635082599
+Z44 8C:/Du lieu/CE213/traffic/datapath.v
+Z45 FC:/Du lieu/CE213/traffic/datapath.v
+L0 2
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/datapath.v|
+R10
+!i10b 1
+!s85 0
+Z47 !s108 1635091377.728000
+Z48 !s107 C:/Du lieu/CE213/traffic/datapath.v|
+!s101 -O0
+vdff
+Z49 In=aW]4W0z_4PF]G=QcM7X1
+Z50 V^8]biO>]IklG5UBiGC_zC2
+R4
+Z51 w1635077179
+Z52 8C:/Du lieu/CE213/traffic/dff.v
+Z53 FC:/Du lieu/CE213/traffic/dff.v
+L0 1
+R8
+r1
+31
+R10
+Z54 !s100 Q9;O8<K:LFDa;MDC=GZKP1
+Z55 !s108 1635077183.018000
+Z56 !s107 C:/Du lieu/CE213/traffic/dff.v|
+Z57 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/dff.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vnext
+Z58 !s100 @ano_ijVXO5M`5GUUf3Z<3
+Z59 ImCRNVKO:ZCCBLlNm;;_6C3
+Z60 VhSD5afAL7QX_GeOo8zLGJ2
+R4
+Z61 w1635079802
+Z62 8C:/Du lieu/CE213/traffic/next.v
+Z63 FC:/Du lieu/CE213/traffic/next.v
+L0 2
+R8
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/next.v|
+R10
+Z65 !s108 1635091377.478000
+Z66 !s107 C:/Du lieu/CE213/traffic/next.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vout
+Z67 !s100 E@AFV_gAeJdJeSH2]zYjX2
+Z68 I>^:=CmOW7MDW4jSa]ogAV0
+Z69 V9_JzIhFN0z^<;U9W9?7Jd3
+R4
+Z70 w1635082346
+Z71 8C:/Du lieu/CE213/traffic/out.v
+Z72 FC:/Du lieu/CE213/traffic/out.v
+L0 2
+R8
+r1
+31
+Z73 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/out.v|
+R10
+Z74 !s108 1635091377.345000
+Z75 !s107 C:/Du lieu/CE213/traffic/out.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+!i10b 1
+Z76 !s100 ^BoG:D3m^S?o:mUD?UkG00
+Z77 IKfa17_1I9GFX@@diDi2[h3
+Z78 VV@Xn<HnSRM[I5c1?BH]3a3
+R4
+Z79 w1635082515
+Z80 8C:/Du lieu/CE213/traffic/tb.v
+Z81 FC:/Du lieu/CE213/traffic/tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1635091377.842000
+!s107 C:/Du lieu/CE213/traffic/tb.v|
+Z82 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/tb.v|
+!s101 -O0
+R10
+vtb_control
+Z83 !s100 _a6Z;k4^jCod^j4D>oQ>;1
+Z84 IC@NcMc2^OM4fRN^OiCSkC3
+Z85 Vf_bFbU:?m?QEBYmYPI_Ui1
+R4
+Z86 w1635075354
+Z87 8C:/Du lieu/CE213/traffic/tb_c.v
+Z88 FC:/Du lieu/CE213/traffic/tb_c.v
+L0 2
+R8
+r1
+31
+Z89 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/tb_c.v|
+R10
+Z90 !s108 1635082748.787000
+Z91 !s107 C:/Du lieu/CE213/traffic/tb_c.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtraffic
+Z92 !s100 3kKla9=63R@4n7f:`0mC62
+Z93 ImROX2>efiB3dCcccH[iOD0
+Z94 VH`6Lf]E[A[;NjO9`EmSn83
+R4
+Z95 w1635082744
+Z96 8C:/Du lieu/CE213/traffic/traffic.v
+Z97 FC:/Du lieu/CE213/traffic/traffic.v
+L0 2
+R8
+r1
+31
+Z98 !s90 -reportprogress|300|-work|work|C:/Du lieu/CE213/traffic/traffic.v|
+R10
+Z99 !s108 1635091376.859000
+Z100 !s107 C:/Du lieu/CE213/traffic/traffic.v|
+!i10b 1
+!s85 0
+!s101 -O0
